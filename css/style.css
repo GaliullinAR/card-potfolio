@@ -133,6 +133,7 @@ body {
   background: #ff5f95;
   border-radius: 5px;
   color: #fff;
+  text-decoration: none;
 }
 
 .btn:last-child {
